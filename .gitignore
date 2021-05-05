@@ -51,4 +51,4 @@ backend/runtime/debug/index.data
 /backend/web/robots.txt
 /backend/config/main.php
 /backend/web/assets
-# /backend/assets
+/backend/assets
